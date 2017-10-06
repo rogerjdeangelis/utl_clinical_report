@@ -1,5 +1,5 @@
 # utl_clinical_report
-Very flexible complex proc report
+SAS creating a very flexible complex proc report ( pdf or rtf)
 
     ```    ```
     ```  /* T1002280 Flexible complex clinical demographics report  ```
